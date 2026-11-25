@@ -24,7 +24,7 @@ Based in Indore, India.
 
 ## Featured Cloud & DevOps Projects
 
-### LeaveHub — Three-Tier AWS Architecture
+### [LeaveHub — Three-Tier AWS Architecture](https://github.com/onlybhaiyu/LeaveHub-AWS-Three-Tier-Architecture)
 
 An employee leave management application built with Flask and PostgreSQL, deployed on a three-tier AWS architecture.
 
