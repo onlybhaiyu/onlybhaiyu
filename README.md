@@ -1,73 +1,92 @@
 # Hi, I'm Pratik Jain 👋
 
-### AWS Certified Solutions Architect – Associate | Cloud & DevOps | Python
+**Junior Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate**
 
-I am a Cloud and DevOps professional focused on AWS infrastructure, automation, containerized applications, CI/CD, and monitoring. I also enjoy building Python-based AI/ML applications and exploring their deployment on AWS.
+[![AWS Certified](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)](#certification)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratik%20Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratikjain15)
+[![GitHub](https://img.shields.io/badge/GitHub-onlybhaiyu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/onlybhaiyu)
 
-## About Me
+I'm a Computer Science Engineering graduate and AWS Certified Solutions Architect – Associate, focused on cloud infrastructure, networking, infrastructure as code, containerized deployments, CI/CD, and observability.
 
-- AWS Certified Solutions Architect – Associate.
-- Hands-on experience with AWS networking, compute, storage, and serverless architectures.
-- Infrastructure automation using Terraform and application deployments using Docker and CI/CD.
-- Interested in cloud security, observability, scalable architectures, and AI/ML.
+I build practical AWS projects with a focus on secure networking, scalable application architectures, automated deployments, and infrastructure monitoring.
 
-## Certifications
-
-![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+Based in Indore, India.
 
 ## Technical Skills
 
 | Domain | Technologies |
-| --- | --- |
-| AWS Cloud | EC2, VPC, IAM, S3, ALB, Auto Scaling, RDS, DynamoDB, ECR, ECS Fargate |
-| Serverless & Networking | Lambda, API Gateway, CloudFront, Route 53, ACM, VPC Endpoints, Systems Manager |
-| DevOps & Automation | Terraform, Docker, Git, GitHub Actions, Jenkins, Ansible |
-| Monitoring & Observability | CloudWatch, Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Alertmanager |
-| Operating Systems & Scripting | Linux, Bash, Python, AWS CLI, SQL |
-| Backend & AI/ML | Flask, FastAPI, Streamlit, Pandas, LangChain, RAG, ChromaDB |
+| :--- | :--- |
+| AWS Cloud & Networking | EC2, VPC, IAM, S3, ALB, Auto Scaling, RDS, DynamoDB, Route 53, CloudFront, ACM, VPC Endpoints |
+| Containers & Serverless | Docker, ECR, ECS Fargate, Lambda, API Gateway |
+| Infrastructure as Code & CI/CD | Terraform, Git, GitHub, GitHub Actions, Jenkins, AWS CLI |
+| Monitoring & Observability | CloudWatch, Prometheus, Grafana, Loki, PagerDuty |
+| Linux & Development | Linux, Bash, Python, Boto3, Flask, Nginx, SQL, PostgreSQL |
 
-## Featured Projects
+## Featured Cloud & DevOps Projects
 
 ### LeaveHub — Three-Tier AWS Architecture
 
-- Three-tier employee leave management application using Flask and PostgreSQL.
-- AWS VPC, Application Load Balancer, EC2 Auto Scaling, and RDS.
-- Terraform infrastructure automation, Docker, and GitHub Actions CI/CD.
+An employee leave management application built with Flask and PostgreSQL, deployed on a three-tier AWS architecture.
+
+- Designed a VPC with public and private subnets, an Application Load Balancer, EC2 Auto Scaling, and RDS PostgreSQL.
+- Automated infrastructure provisioning using Terraform and deployed the application using Docker.
+- Automated application deployments using GitHub Actions CI/CD pipelines.
+- Implemented monitoring and performance visualization with CloudWatch, Prometheus, and Grafana.
+
+**Stack:** AWS · Terraform · Docker · Flask · PostgreSQL · GitHub Actions · CloudWatch · Prometheus · Grafana
 
 ### [AWS Serverless Employee Registry](https://github.com/onlybhaiyu/AWS-Serverless-Employee-Registry)
 
-- Full-stack employee registration application with Python and PostgreSQL.
-- Serverless backend design using API Gateway and Lambda.
-- Private S3 frontend delivery architecture using CloudFront, OAC, Route 53, and ACM, with private RDS connectivity.
+A full-stack employee registration application designed around a serverless backend and managed PostgreSQL database.
 
-### [ResearchMind — Multi-Agent AI](https://github.com/onlybhaiyu/ResearchMind-Multi-Agent-AI)
+- Designed private S3 frontend delivery using CloudFront, Origin Access Control (OAC), Route 53, and ACM.
+- Implemented Python Lambda handlers for employee registration and retrieval through API Gateway.
+- Designed private VPC connectivity to RDS PostgreSQL, with input validation, parameterized SQL queries, and TLS-encrypted database connections.
+- Included application logging and a documented AWS deployment workflow.
 
-- Python-based multi-agent AI application for research workflows.
-- Explores agent collaboration and AI application development.
+**Stack:** S3 · CloudFront · Route 53 · ACM · API Gateway · Lambda · RDS PostgreSQL · Python · JavaScript
 
-### FinGuard AI — RBAC RAG Assistant
+### Additional AWS Hands-on Projects
 
-- Document question-answering application using retrieval-augmented generation.
-- JWT authentication and role-based access control.
-- FastAPI, Streamlit, ChromaDB, SQLite, and DuckDB.
+| Project | Key concepts |
+| :--- | :--- |
+| Containerized Registration Application | ECS Fargate, ECR, ALB, Docker, DynamoDB |
+| Private EC2 Connectivity | S3 Gateway VPC Endpoint, Systems Manager, package installation without NAT or Internet Gateway |
+| Secure Static Website Hosting | Private S3, CloudFront, OAC, Route 53, ACM |
+| DNS Failover | Route 53 failover routing, Application Load Balancers |
 
-## Additional AWS Hands-on Projects
+## Certification
 
-- Dockerized Flask application on ECS Fargate with ECR, ALB, and DynamoDB.
-- Private EC2 package installation using an S3 Gateway VPC Endpoint without NAT or Internet Gateway.
-- Private S3 website delivery using CloudFront, Route 53, ACM, and OAC.
-- DNS failover routing using Route 53 and Application Load Balancers.
+**AWS Certified Solutions Architect – Associate**  
+Amazon Web Services (AWS)  
+Issued: November 14, 2026 · Valid until November 14, 2029
+
+## Python & AI Projects
+
+Alongside cloud infrastructure and DevOps, I explore Python application development and AI systems.
+
+| Project | Overview |
+| :--- | :--- |
+| [ResearchMind — Multi-Agent AI](https://github.com/onlybhaiyu/ResearchMind-Multi-Agent-AI) | Python-based multi-agent application for research workflows and agent collaboration. |
+
+## Education
+
+**Bachelor of Technology (B.Tech), Computer Science Engineering**  
+Shri Vaishnav Vidyapeeth Vishwavidyalaya, Indore  
+2020 – 2024
 
 ## Currently Exploring
 
-- Scalable and secure AWS architectures
-- Cloud automation and observability
-- AI/ML application deployment on AWS
+- Secure, scalable, and cost-conscious AWS architectures.
+- Infrastructure automation, deployment reliability, and observability.
+- Deployment of Python and AI/ML applications on AWS.
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-onlybhaiyu-181717?style=flat-square&logo=github)](https://github.com/onlybhaiyu)
+[LinkedIn](https://www.linkedin.com/in/pratikjain15) · [GitHub](https://github.com/onlybhaiyu)
+
+I'm interested in junior Cloud Engineer, AWS Engineer, and DevOps Engineer opportunities where I can contribute to infrastructure automation, cloud operations, and reliable application deployments.
 
 ---
 
-*Building practical cloud solutions, automating infrastructure, and continuously learning.*
+*Building practical cloud solutions with a focus on automation, reliability, and continuous learning.*
